@@ -30,7 +30,3 @@ The project demonstrates the value of using regression techniques to understand 
 
 ### Future Work
 In future iterations of this analysis, additional modeling techniques such as Random Forest or Gradient Boosting could be explored to further improve predictive accuracy. Additionally, incorporating more features related to market conditions (e.g., interest rates, economic data) could provide a more comprehensive understanding of the factors influencing house prices.
-The project demonstrates the value of using regression techniques to understand the factors influencing house prices. Key features such as living area, overall quality, garage capacity, and neighborhood are strong predictors, while roof materials emerged as an interesting secondary factor. These insights can help real estate professionals, homeowners, and buyers make informed decisions when evaluating properties or planning home improvements.
-
-Future Work
-In future iterations of this analysis, additional modeling techniques such as Random Forest or Gradient Boosting could be explored to further improve predictive accuracy. Additionally, incorporating more features related to market conditions (e.g., interest rates, economic data) could provide a more comprehensive understanding of the factors influencing house prices.
